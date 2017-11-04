@@ -10,7 +10,7 @@ public class Main {
 
         int[] mainArray = new int[n];
 
-        //Fill array with user numbers
+        //Fill array with users numbers
         for (int i = 0; i < n; i++) {
             System.out.print("Enter next number in array: ");
             mainArray[i] = reader.nextInt();
